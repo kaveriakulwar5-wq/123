@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This is an XML comment describing a bookstore catalog -->
+<Bookstore>
+    <Book category="Programming">
+        <Title>Learning XML</Title>
+        <Author>John Doe</Author>
+        <Year>2026</Year>
+        <Price currency="INR">899.00</Price>
+    </Book>
+    <Book category="Fiction">
+        <Title>The Digital Age</Title>
+        <Author>Jane Smith</Author>
+        <Year>2024</Year>
+        <Price currency="USD">14.99</Price>
+    </Book>
+</Bookstore>

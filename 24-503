@@ -1,0 +1,14 @@
+public class AddThreeNumbers {
+    public static void main(String[] args) {
+        // Variables to store the three numbers
+        int num1 = 15;
+        int num2 = 25;
+        int num3 = 40;
+
+        // Calculating the sum
+        int sum = num1 + num2 + num3;
+
+        // Displaying the result
+        System.out.println("The sum of the three numbers is: " + sum);
+    }
+}
